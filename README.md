@@ -5,7 +5,7 @@ A list of the main projects I worked on during my BSc in Computer Science at the
 Android native application developed using Kotlin and XML layouts. Its goal is to help users plan, track, and enhance their travel experiences.
 
 [Selfie - Web Technologies](https://github.com/enisb1/selfie-tw)\
-Web application designed to support students in managing their academic and personal lives. It has been developed using the MEVN stack: MongoDB as a database, Express.js as a backend framework, Vue.js as a frontend framework and Node.js as a runtime for Express.
+Web application designed to support students in managing their academic and personal lives. It has been developed using the MEVN stack: MongoDB as a database, Express.js as a backend framework, Vue.js as a frontend framework and Node.js as a runtime for Express. It has been deployed via Docker containers on university servers.
 
 [MEME Airlines - Databases](https://github.com/enisb1/MEMEAirlines)\
 A structured database analysis and design project covering requirement analysis, conceptual and logical design, normalization, and SQL implementation. It includes ER modeling, data dictionary, business rules, and testing to ensure a well-structured MySQL database integrated with Vue.js and Node.js.
