@@ -1,6 +1,9 @@
 # UniProjects-Unibo
 A list of the main projects I worked on during my BSc in Computer Science at the University of Bologna.
 
+[cifar_separation - Introduction to Machine Learning](https://github.com/enisb1/cifar_separation)\
+Separation of two merged CIFAR-10 images using a deep neural network.
+
 [TravelCompanion - Mobile App Development Lab](https://github.com/enisb1/TravelCompanion)\
 Android native application developed using Kotlin and XML layouts. Its goal is to help users plan, track, and enhance their travel experiences.
 
